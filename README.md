@@ -14,13 +14,13 @@ There are two ways to run git on your local repository and also work on the remo
 |3|It is hosted on [GitHub url](https://github.com)|it is hosted on [GitLab url](https:gitlab.com)|
 
 ## Git Commands Every Developer Should Know
-1. git init: used to initialize a local repository
-2. git status
-3. git add: used to add a file/files to the staging area, making them available for commit
-4. git commit: used to save a snapshot of the changes made at a particular point in time
-5. git push: used to transfer records from local to remote repository
-6. git branch: used to create a branch aside the main branch when you can work on new features
-7. git checkout: used to switch from one branch to another
-8. git pull: used to update the local repository from the remote repository
-9. git fetch: used to see the changes that have occurred on the remote repository
-10. git merge: used to merge branches together 
+1. **git init**: used to initialize a local repository
+2. **git status**: used to check the state of the files, if it is staged, ready for commit or untracked.
+3. **git add**: used to add a file/files to the staging area, making them available for commit
+4. **git commit**: used to save a snapshot of the changes made at a particular point in time
+5. **git push**: used to transfer records from local to remote repository
+6. **git branch**: used to create a branch aside from the main branch where you can work on new features
+7. **git checkout**: used to switch from one branch to another
+8. **git pull**: used to update the local repository from the remote repository
+9. **git fetch**: used to see the changes that have occurred on the remote repository
+10. **git merge**: used to merge branches 
