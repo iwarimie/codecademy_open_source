@@ -1,10 +1,10 @@
 # codecademy_open_source
-A codecademy course on open source software after I had finished a open source software course on GitHub. This is just to re-enforce learning.
+A Codecademy course on open source software after I had finished an open source software course on GitHub. This is just to reinforce learning.
 
 ## How to use GitHub 
 There are two ways to run git on your local repository and also work on the remote server. They include:
 - git run on local computer
-- GitHub stored in the remote repository
+- GitHub is stored in the remote repository
 
 ## Unverified Facts About GitHub and GitLab
 |S/No|GitHub|GitLab|
@@ -12,3 +12,15 @@ There are two ways to run git on your local repository and also work on the remo
 |1|GitHub uses Git on the terminal|GitLab also uses Git on the terminal|
 |2|It is an open source|It is a proprietary software|
 |3|It is hosted on [GitHub url](https://github.com)|it is hosted on [GitLab url](https:gitlab.com)|
+
+## Git Commands Every Developer Should Know
+1. git init: used to initialize a local repository
+2. git status
+3. git add: used to add a file/files to the staging area, making them available for commit
+4. git commit: used to save a snapshot of the changes made at a particular point in time
+5. git push: used to transfer records from local to remote repository
+6. git branch: used to create a branch aside the main branch when you can work on new features
+7. git checkout: used to switch from one branch to another
+8. git pull: used to update the local repository from the remote repository
+9. git fetch: used to see the changes that have occurred on the remote repository
+10. git merge: used to merge branches together 
