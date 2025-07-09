@@ -12,6 +12,8 @@ There are two ways to run git on your local repository and also work on the remo
 |1|GitHub uses Git on the terminal|GitLab also uses Git on the terminal|
 |2|It is an open source|It is a proprietary software|
 |3|It is hosted on [GitHub url](https://github.com)|it is hosted on [GitLab url](https:gitlab.com)|
+|4|Uses Pull Request to merge changes|Uses Merge Request to merge changes|
+|5|Do have built-in CI/CD pipelines|Has built-in CI/CD pipelines|
 
 ## Git Commands Every Developer Should Know
 1. **git init**: used to initialize a local repository
